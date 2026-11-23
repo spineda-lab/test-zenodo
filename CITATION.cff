@@ -2,11 +2,12 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
 title: "test-zenodo"
+doi: 10.5072/zenodo.647792
 abstract: "Test repository for checking the GitHub to Zenodo Sandbox integration."
 authors:
   - family-names: "Test"
     given-names: "Testing"
-version: 0.1.0
+version: 0.2.0
 date-released: 2026-11-23
 license: GPL-3.0-or-later
 repository-code: "https://github.com/spineda-lab/test-zenodo"
